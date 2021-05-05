@@ -9,6 +9,7 @@ FORMAÇÃO
 * cursando area tecnica da tecnologia da informação 
 
 CONHECIMENTOS
+<ol>
 * conhecimentos basicos em java
 * conhecimentos basicos em linux
 * conhecimentos basicos em redes
