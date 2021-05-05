@@ -1,7 +1,7 @@
-# (i) Curriculo2A (/i)
+# (b) Curriculo2A (/b)
 ## Aluno do Sesi Senai
 ### Raphael Lourenço de Campos Silva 
-* possuo nivel superior
+* nivel superior completo
 * cursando nivel medio 
 * cursando area tecnica da tecnologia da informação 
 
