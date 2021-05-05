@@ -16,6 +16,7 @@ CONHECIMENTOS
 * conhecimentos basicos em java
 * conhecimentos basicos em linux
 * conhecimentos basicos em redes
+<ol>
 <br />
 
 <br />
