@@ -1,29 +1,31 @@
-# <i> Curriculo2A </i>
-## Aluno do Sesi Senai
-### <b> Raphael Lourenço de Campos Silva </b>
+<h2> portfolio TI </h2>
+<h1> Curriculo2A </h1>
+<h5> Aluno do Sesi Senai </h5>
+<h4>Raphael Lourenço de Campos Silva</h4>
 
+#
 
-FORMAÇÃO
+> FORMAÇÃO
 
 * nivel superior completo
 * cursando nivel medio 
 * cursando area tecnica da tecnologia da informação
 
 
-CONHECIMENTOS
+> CONHECIMENTOS
 
 * conhecimentos basicos em java
 * conhecimentos basicos em linux
 * conhecimentos basicos em redes
 
 
-HABILIDADES 
+> HABILIDADES 
 
 * boa comunicação 
 * bom foco e atenção 
 * vontade em aprender 
 
-OBJETIVOS
+> OBJETIVOS
 
 * adquirir novos conhecimentos e exepriencias 
 * entender mais o ramo de TI
