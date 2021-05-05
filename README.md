@@ -2,8 +2,9 @@
 ## Aluno do Sesi Senai
 ### <b> Raphael Lourenço de Campos Silva </b>
 
-<ol>
+
 FORMAÇÃO
+<ol>
 * nivel superior completo
 * cursando nivel medio 
 * cursando area tecnica da tecnologia da informação
