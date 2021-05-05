@@ -18,8 +18,10 @@ CONHECIMENTOS
 * conhecimentos basicos em redes
 <br />
 
+<br />
 HABILIDADES 
 <ol>
 * boa comunicação 
 * bom foco e atenção 
 * vontade em aprender 
+<br />
