@@ -10,10 +10,12 @@ FORMAÇÃO
 
 CONHECIMENTOS
 <ol>
+  
 * conhecimentos basicos em java
 * conhecimentos basicos em linux
 * conhecimentos basicos em redes
 
+HABILIDADES <ol>
 * boa comunicação 
 * bom foco e atenção 
 * vontade em aprender 
