@@ -5,9 +5,9 @@
 <br />
 FORMAÇÃO 
 <ol>
-nivel superior completo
-cursando nivel medio 
-cursando area tecnica da tecnologia da informação 
+* nivel superior completo
+* cursando nivel medio 
+* cursando area tecnica da tecnologia da informação 
 <ol>
 <br />
 
