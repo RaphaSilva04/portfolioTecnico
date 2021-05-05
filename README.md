@@ -3,12 +3,10 @@
 ### <b> Raphael Lourenço de Campos Silva </b>
 
 <br />
-FORMAÇÃO 
-sort
+<ol> FORMAÇÃO <ol>
 * nivel superior completo
 * cursando nivel medio 
 * cursando area tecnica da tecnologia da informação 
-<ol>
 <br />
 
 <br />
