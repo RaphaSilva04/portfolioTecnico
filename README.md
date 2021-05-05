@@ -1,7 +1,7 @@
 # <i> Curriculo2A </i>
 ## Aluno do Sesi Senai
 ### <b> Raphael Lourenço de Campos Silva </b>
-<br />
+
 FORMAÇÃO
 <ol>
 * nivel superior completo
