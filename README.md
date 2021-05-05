@@ -3,7 +3,6 @@
 ### <b> Raphael Lourenço de Campos Silva </b>
 
 <ol>
-<br />
 FORMAÇÃO
 * nivel superior completo
 * cursando nivel medio 
