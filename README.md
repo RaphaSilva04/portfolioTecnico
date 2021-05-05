@@ -1,5 +1,5 @@
 # Curriculo2A
-## portfolio TI
+## Aluno do Sesi Senai
 Raphael Lourenço de Campos Silva 
 * possuo nivel superior
 * cursando nivel medio 
