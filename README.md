@@ -3,10 +3,10 @@
 ### <b> Raphael Lourenço de Campos Silva </b>
 
 <br />
-('FORMAÇÃO
+('FORMAÇÃO )
 * nivel superior completo
 * cursando nivel medio 
-* cursando area tecnica da tecnologia da informação')
+* cursando area tecnica da tecnologia da informação
 <br />
 
 <br />
