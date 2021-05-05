@@ -5,18 +5,18 @@
 <br />
 FORMAÇÃO 
 <ol>
-* nivel superior completo
-* cursando nivel medio 
-* cursando area tecnica da tecnologia da informação 
+nivel superior completo
+cursando nivel medio 
+cursando area tecnica da tecnologia da informação 
 <ol>
 <br />
 
 <br />
 CONHECIMENTOS
 <ol>
-* conhecimentos basicos em java
-* conhecimentos basicos em linux
-* conhecimentos basicos em redes
+conhecimentos basicos em java
+conhecimentos basicos em linux
+conhecimentos basicos em redes
 <ol>
 <br />
 
