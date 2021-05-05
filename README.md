@@ -12,9 +12,9 @@ FORMAÇÃO
 
 CONHECIMENTOS
 
-conhecimentos basicos em java
-conhecimentos basicos em linux
-conhecimentos basicos em redes
+* conhecimentos basicos em java
+* conhecimentos basicos em linux
+* conhecimentos basicos em redes
 
 
 HABILIDADES 
