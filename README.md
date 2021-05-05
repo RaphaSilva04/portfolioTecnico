@@ -23,3 +23,9 @@ HABILIDADES
 * bom foco e atenção 
 * vontade em aprender 
 
+OBJETIVOS
+
+* adquirir novos conhecimentos e exepriencias 
+* entender mais o ramo de TI
+* Obter um bom resultado entendimento durante o curso
+
