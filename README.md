@@ -7,7 +7,7 @@
 
 > FORMAÇÃO
 
-* nivel superior completo
+* nivel fundamental completo
 * cursando nivel medio 
 * cursando area tecnica da tecnologia da informação
 
