@@ -1,0 +1,46 @@
+0 cat netflix
+   1 vi netflix
+   2 echo deixa eu alterar plss &gt; netflix
+   3 history
+posso alterar?
+ 
+~
+~
+~
+~
+~
+localhost:/root/entretenimento$ echo deixa eu alterar plss &gt; netflix
+ash: can&#39;t create netflix: Permission denied
+localhost:/root/entretenimento$ history
+   0 cat netflix
+   1 vi netflix
+   2 echo deixa eu alterar plss &gt; netflix
+   3 history
+localhost:/root/entretenimento$ exit
+localhost:~/entretenimento# ls
+globoplay  netflix
+localhost:~/entretenimento# history
+   0 ls -a
+   1 ls -l
+   2 ls -la
+   3 mkdir entretenimento
+   4 cd entretenimento/
+   5 touch netflix/ globoplay
+   6 ls
+   7 touch netflix
+   8 adduser intruso
+   9 cat netflix
+  10 vi netflix
+  11 cat netflix
+  12 echo posso &gt; netflix
+  13 cat netflix
+  14 su intruso
+  15 ls
+  16 history
+
+localhost:~/entretenimento# ls -la
+total 12
+drwxr-xr-x    2 root     root            87 Mar 24 08:51 .
+drwxr-xr-x    6 root     root           268 Jan  9 07:37 ..
+-rw-r--r--    1 root     root             0 Mar 24 08:51 globoplay
+-rw-r--r--    1 root     root             6 Mar 24 08:57 netflix
