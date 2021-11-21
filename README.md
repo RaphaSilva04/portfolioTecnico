@@ -36,7 +36,7 @@
 ## -LINKS-
 >FundamentosTi
 >
-[Manipulacao_arq](FundamentosTi/Manipulacao_arq)
+[Manipulacao_arq](fundamentosTI/Manipulacao_arq)
 
 
 >LOGICA COMPUTACIONAL 
