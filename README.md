@@ -35,7 +35,7 @@
 
 ## -LINKS-
 >FundamentosTi
-[Manipulacao_arq](FundamentosTi/exemplos.sh)
+[Manipulacao_arq](FundamentosTi/Manipulacao_arq)
 
 
 >LOGICA COMPUTACIONAL 
