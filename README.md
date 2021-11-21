@@ -34,8 +34,8 @@
 * Obter um bom resultado entendimento durante o curso
 
 ## -LINKS-
-###FUNDAMENTOS DE TI
-[Manipulação_arq](FundamentosTi/exemplos/Sequencialatén.sh)
+>FundamentosTi
+[Manipulação_arq](FundamentosTi/Manipulação_arq)
 
 
 >LOGICA COMPUTACIONAL 
