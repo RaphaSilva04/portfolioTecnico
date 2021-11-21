@@ -50,5 +50,7 @@
 
 * [Shell_script](fundamentosTI/Shell_script)
 
+* [Fatorial](fundamentosTI/Fatorial)
+
 >LOGICA COMPUTACIONAL 
 
