@@ -36,9 +36,9 @@
 ## -LINKS-
 >FundamentosTi
 >
-[Manipulacao_arq](fundamentosTI/Manipulacao_arq)
+* [Manipulacao_arq](fundamentosTI/Manipulacao_arq)
 
-[Caracters_Jokers](fundamentosTI/Caracteres_curingas)
+* [Caracters_Jokers](fundamentosTI/Caracteres_curingas)
 
 
 >LOGICA COMPUTACIONAL 
