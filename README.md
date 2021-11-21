@@ -40,6 +40,8 @@
 
 * [Caracters_Jokers](fundamentosTI/Caracteres_curingas)
 
+* [Redi_pipe](fundamentosTI/Redirecionamento_pipe)
+
 
 >LOGICA COMPUTACIONAL 
 
