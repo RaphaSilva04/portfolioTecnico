@@ -1,0 +1,25 @@
+#!/bin/bash
+read -p "Digite um numero:" num  #num=5
+res=1
+while [ $num -gt 0 ]
+do
+        res=$((res*num)) # res=1*5//res=5*4//res=20*3//res=60*2 //res=120*1
+        num=$((num-1)) # num=4 // num=3// num=2  // num=1    //num=0
+done
+echo $res # res=120
+
+fatorial.sh
+#!/bin/bash
+read -p "Digite um numero:" num # num=5
+res=1
+i=0 # i=0
+while [ $num -gt 0 ]
+do
+        res=$((res*num))
+        fatorial[$i]=$num # fatorial[0]=5 // fatorial[1]=4 // fatorial[2]=3 // fatorial[3]=2 // fatorial[4]=1
+        i=$((i+1))                  #      i=1        //    i=2         //      i=3        //  i=4            // i=5
+        num=$((num-1))
+done
+echo ${fatorial[@]} # 5 4 3 2 1
+echo $res # 120
+
