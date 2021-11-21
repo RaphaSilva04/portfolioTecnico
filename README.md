@@ -46,5 +46,7 @@
 
 * [Users_group](fundamentosTI/Usuarios_e_Grupos)
 
+* [Permissionamento](fundamentosTI/Permissionamento)
+
 >LOGICA COMPUTACIONAL 
 
