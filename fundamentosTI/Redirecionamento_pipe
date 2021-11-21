@@ -1,0 +1,33 @@
+localhost:~/senai# cat diferencawccat
+no wc sem o pipe aparece a indicacao do titulo nomes.
+ 
+Ja no wc com o pipe nao aparece, mas a diferenca e que obtem 
+um encadeamento de
+comandos.
+localhost:~/senai# cat nomes | sort
+Ana
+Joana
+Joao
+Jose
+Maria
+Ricardo
+ 0 ls
+   1 mkdir senai
+   2 cd senai/
+   3 touch CatSemPipe
+   4 touch CatMore
+   5 touch CatLess/ MoreSemPipr
+   6 ls
+   7 touch CatLess
+   8 clear
+   9 touch nomes
+  10 vi nomes
+  11 wc nomes
+  12 cat nome | wc
+  13 cat nomes | wc
+  14 touch diferencawccat
+  15 vi diferencawccat
+  16 ls
+  17 cat diferencawccat
+  18 cat nomes | sort
+  19 history
