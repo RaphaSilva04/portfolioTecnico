@@ -33,7 +33,9 @@
 * entender mais o ramo de TI
 * Obter um bom resultado entendimento durante o curso
 
->FUNDAMENTOS DE TI
+## -LINKS-
+###FUNDAMENTOS DE TI
+[Manipulação_arq](FundamentosTi/exemplos/Sequencialatén.sh)
 
 
 >LOGICA COMPUTACIONAL 
