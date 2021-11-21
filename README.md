@@ -42,6 +42,7 @@
 
 * [Redi_pipe](fundamentosTI/Redirecionamento_pipe)
 
+* [Listar](fundamentosTI/Listar_redirecionar)
 
 >LOGICA COMPUTACIONAL 
 
