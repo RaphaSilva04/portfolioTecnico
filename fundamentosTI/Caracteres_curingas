@@ -1,0 +1,99 @@
+1 echo abacaxi > teste
+   2 ls
+   3 cat teste
+   4 echo abacaxi >> teste
+   5 ls
+   6 cat teste
+   7 cd ../.../..
+   8 cd home
+   9 cd ~
+  10 /teste
+  11 tree teste
+  12 clear
+  13 history -c
+  14 echo Raphael_Silva
+  15 echo ex1
+  16 mkdir pallet/ ash/ gary/ oaksLAB/ pokedex
+  17 ls
+  18 tree
+  19 tree pallet/
+  20 mkdir senai
+  21 cd senai
+  22 cd pallet
+23 mkdir pallet
+  24 cd pallet
+  25 ls
+  26 mkdir ash
+  27 mkdir gary
+  28 mkdir oaksLAB
+  29 mkdir pokedex
+  30 ls
+  31 cd ..
+  32 ls
+  33 cd pallet/
+  34 cd ash/
+  35 cd ..
+  36 rm -r senai
+  37 cd pallet/
+  38 cd ash/
+  39 touch charmander.txt
+  40 touch butterfree.txt
+  41 touch bulbassauro.txt
+  42 ls
+  43 cd ..
+  44 cd gary/
+  45 touch blastoise.txt
+  46 touch intro.mp3
+  47 touch .eevee.jpg
+  48 ls
+  49 touch eevee.jpg
+ 50 ls
+  51 cd ..
+  52 cd oaksLAB
+  53 touch pokedex1996.exe
+  54 touch pokedex2014.exe
+  55 ls
+  56 cd ..
+  57 pok
+  58 cd pokedex/
+  59 touch zapdox.txt/ .hoothoot.txt
+  60 touch zapdox.txt
+  61 ls
+  62 cd ..
+  63 cd ash/
+  64 cp b* ash/oaksLAB
+  65 cp b*
+  66 oaksLAB
+  67 cp ./b*/oaksLAB
+  68 ls
+  69 cd ../oaksLAB
+  70 ls
+  71 cp/b*
+  72 cd ../ ash
+  73 cd ash
+  74 cp ./b*/ pallet/ oaksLAB
+  75 cp ./b*/ oaksLAB
+  76 cp b*/oaksLAB .
+ 77 cp b*/ pallet .
+  78 cp /b*/oaksLAB
+  79 cp b*/ pallet/oaksLAB
+  80 cp b*./ pallet/oaksLAB
+  81 cp b* ./pallet/oaksLAB
+  82 cp b* /pallet/oaksLAB .
+  83 cd ..
+  84 cd oaksLAb
+  85 cd oaksLAB/
+  86 ls
+  87 cd ../ ash
+  88 cd ash
+  89 cp b* /pallet/oaksLAB .
+  90 cp b* ../oaksLAB
+  91 cd ../ oaksLAB
+  92 cd oaksLAB/
+  93 ls
+  94 cp ../charmander.txt/ ash
+  95 cp ../charmander.txt
+  96 cd ..
+  97 cd ash
+  98 touch snorlax.txt/ totodile.txt
+  99 ls
