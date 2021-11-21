@@ -1,0 +1,32 @@
+0 cat /etc/passwd
+   1 tail -n5 /etc/passwd
+   2 tail -n5 /etc/passwd &gt; ex_usuarios.txt
+   3 ls
+   4 cat ex_usuarios.txt
+   5 cat /etc/group
+   6 tail -n5 /etc/group
+   7 tail -n5 /etc/group &gt; ex_grupos.txt
+   8 ls
+   9 cat ex_grupos.txt
+  10 adduser harry_potter
+  11 ls
+  12 cat /etc/passwd
+  13 adduser hermione
+  14 adduser severus_snape
+  15 adduser draco_malfoy
+  16 adduser tonks
+  17 adduser cedrico
+  18 cat /etc/passwd
+  19 addgroup grifinoria
+  20 addgroup sonserina
+  21 addgroup lufa_lufa
+  22 cat /etc/passwd
+  23 cat /etc/group
+  24 adduser harry_potter grifinoria
+  25 adduser hermione grifinoria
+  26 adduser severus_snape sonserina
+  27 adduser draco_malfoy sonserina
+  28 adduser cedrico lufa_lufa
+29 adduser tonks lufa_lufa
+  30 cat /etc/group
+  31 history
