@@ -48,5 +48,7 @@
 
 * [Permissionamento](fundamentosTI/Permissionamento)
 
+* [Shell_script](fundamentosTI/Shell_script)
+
 >LOGICA COMPUTACIONAL 
 
