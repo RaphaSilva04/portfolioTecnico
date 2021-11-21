@@ -44,7 +44,7 @@
 
 * [Listar](fundamentosTI/Listar_redirecionar)
 
-* [Users_group]()
+* [Users_group](fundamentosTI/Usuarios_e_Grupos)
 
 >LOGICA COMPUTACIONAL 
 
