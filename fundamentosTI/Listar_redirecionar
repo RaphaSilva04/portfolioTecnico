@@ -1,0 +1,14 @@
+0 lshw
+   1 lswh
+   2 lshw &gt; cat/etc/protocols
+   3 hardware &gt; cat /etc/protocols
+   4 cat etc/protocols
+   5 cat /etc/protocols &gt; hardware
+   6 ls
+   7 cd hardware
+   8 cat hardware
+   9 head -n12 hardware
+  10 tail -n15 hardware
+  11 wc -l hardware
+  12 cat -n hardware
+  13 head -n15 hardware | tail -n40
