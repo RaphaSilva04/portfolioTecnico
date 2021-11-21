@@ -33,3 +33,8 @@
 * entender mais o ramo de TI
 * Obter um bom resultado entendimento durante o curso
 
+>FUNDAMENTOS DE TI
+
+
+>LOGICA COMPUTACIONAL 
+
