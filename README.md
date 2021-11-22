@@ -58,6 +58,8 @@
 
 * [Fixa_comandos](FundamentosBD/alter_comandos)
 
+* [Fixa_pgadmin](FundamentosBD/Fixa_pgadmin)
+
 
 >LOGICA COMPUTACIONAL 
 
