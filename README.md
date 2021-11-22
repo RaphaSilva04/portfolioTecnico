@@ -64,6 +64,8 @@
 
 * [1FormaNormal](FundamentosBD/1FormaNormal)
 
+* [2FormaNormal](FundamentosBD/2FormaNormal)
+
 
 >LOGICA COMPUTACIONAL 
 
