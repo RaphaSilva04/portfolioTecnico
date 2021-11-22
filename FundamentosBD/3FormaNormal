@@ -1,0 +1,27 @@
+create table alunos(
+matricula int primary key,
+nome varchar(30),
+cod_materia int,
+foreign key (cod_materia) references materia,
+rua varchar(20),
+bairro varchar(20)
+);
+insert into alunos
+(matricula, nome, cod_materia, rua, bairro)
+values
+(1537, &#39;Manuella da Silva&#39;, 02, &#39;Rua Bittencurt&#39;, &#39;centro&#39;),
+(1538, &#39;Alessandra Souza&#39;, 02, &#39;Avenida de Tal&#39;, &#39;estreito&#39;),
+(1539, &#39;Andressa Rosa&#39;, 04, &#39;Rua Aroldo&#39;, &#39;centro&#39;);
+
+create table materia(
+cod_materia int primary key,
+
+nome_materia varchar(20)
+);
+insert into materia
+(cod_materia, nome_materia)
+values
+(02, &#39;matematica&#39;),
+(04, &#39;fundamentos de BD&#39;);
+
+select * from alunos inner join materia on alunos.cod_materia = materia.cod_materia
