@@ -79,3 +79,5 @@
 
 * [Estruturas_repetição](LogicaComputacional/Estruturas_repetição)
 
+* [Espelho_esferico](LogicaComputacional/Espelhos_esferico)
+
