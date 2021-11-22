@@ -1,0 +1,133 @@
+public class Main //Assinatura da classe
+
+{
+
+	public static void main(String[] args) {    //Assinatura do método main
+
+        //controleDePeso();                     //Chamando o método controleDePeso
+
+        //segundo();                          //Chamando o método segundo
+
+	    //terceiro();
+
+	    quarto();
+
+	}
+
+	
+
+	public static void controleDePeso(){    //Assinatura do método controleDePeso
+
+	    float multa, peso, pesoPermitido, excesso; //Declaração das variáveis
+
+		pesoPermitido = 50;                 //atribuindo o valor 50 na variável pesoPermitido
+
+		peso = (float) 59;                  //atribuindo o valor 59 na variável peso
+
+		
+
+		if(pesoPermitido < peso){           // se pesoPermitido é menor do que peso
+
+		    excesso = peso - pesoPermitido; // variável excesso recebe o valor de peso - pesoPermitido
+
+		    multa = excesso * 4;            // variável multa recebe o valor de excesso * 4
+
+		    System.out.println("Houve excesso de "+excesso+"kg, com multa de "+multa); //exibe mensagem
+
+		}
+
+		else{                               //senão
+
+		    System.out.println("O pescador não vai pagar nada!"); //exibe mensagem
+
+		}
+
+	}
+
+	
+
+	public static void segundo(){       //Declaração do método segundo
+
+	    int x = 0;                      //Declaração da variável x e atribuindo o valor 0
+
+	    while(x<10){                    //Enquanto x é menor do que 10, faça
+
+	        if(x % 2 == 0){             //Se o resto da divisão de x por 2 for 0, faça
+
+	            System.out.println(x);  //exibe mensagem
+
+	        }
+
+	        x++;                        //Mesma coisa que x = x+1
+
+	    }
+
+	}
+
+	public static void terceiro(){      //Assinatura do método terceiro
+
+	    int x = 0;                      //Declaração da variável x e atribuindo o valor 0
+
+	    int y = 0;                      //Declaração da variável y e atribuindo o valor 0
+
+	    while(x<100){                   //Enquanto x é menor do que 100, faça
+
+	        if(x%7 == 0){               //Se o resto da divisão de x por 7 for 0, faça
+
+	            y++;                    //Mesma coisa que y = y+1
+
+	        }
+
+	        x++;                        //Mesma coisa que x = x+1
+
+	    }
+
+	    System.out.println(x+" "+y);    //Exibe mensagem
+
+	}
+
+	public static void quarto(){        //Assinatura do método quarto
+
+	    int num1 = 10;                   //Declaração da variável num1 e atribuindo o valor
+
+	    int num2 = 8;                   //Declaração da variável num2 e atribuindo o valor
+
+	    int num3 = 6;                   //Declaração da variável num3 e atribuindo o valor
+
+	    int media = (num1+num2+num3)/3; //Declaração da variável média e atribuindo o valor da soma/3
+
+	    
+
+	    if(media<4){                    //Se a média for menor do que 4, então...
+
+	        System.out.println("E");    //Exibe mensagem
+
+	    }
+
+	    else if(media<6){               //Senão, se a média for menor do que 6, então...
+
+	        System.out.println("D");    //Exibe mensagem
+
+	    }
+
+	    else if(media < 7.5){           //Senão, se a média for menor do que 7.6, então...
+
+	        System.out.println("C");    //Exibe mensagem
+
+	    }
+
+	    else if(media < 9){             //Senão, se a média for menor do que 9, então...
+
+	        System.out.println("B");    //Exibe mensagem
+
+	    }
+
+	    else{                           //Senão, faça..
+
+	        System.out.println("A");    //Exibe mensagem
+
+	    }
+
+	}
+
+}
