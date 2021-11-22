@@ -60,6 +60,8 @@
 
 * [Fixa_pgadmin](FundamentosBD/Fixa_pgadmin)
 
+* [RelacionamentoPG](FundamentosBD/Relacionamento_PG)
+
 
 >LOGICA COMPUTACIONAL 
 
