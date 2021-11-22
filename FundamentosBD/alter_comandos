@@ -1,0 +1,14 @@
+alter table jogos
+add column ano_lançamento date;
+select * from jogos;
+
+alter table new_jogos_famosos rename to tb_games;
+alter table tb_games ADD COLUMN sugestões text;
+alter table tb_games DROP COLUMN &quot;sugestões&quot;;
+select * from tb_games;
+
+alter table tb_games RENAME column &quot;ano_lançamento&quot; to lançamento;
+select * from tb_games;
+
+alter table tb_games alter COLUMN lançamento TYPE date;
+select * from tb_games;
