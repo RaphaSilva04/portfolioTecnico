@@ -1,0 +1,19 @@
+create table jogos(
+id serial primary key,
+nome varchar(50),
+preço decimal(5,2)
+);
+insert into jogos
+(nome, preço)
+values
+(&#39;fifa&#39;, 400,00),
+(&#39;cs&#39;, 40,00),
+(&#39;ufc&#39;, 200,00),
+(&#39;far cry 6&#39;, 280,00);
+select * from jogos;
+update jogos set preço = 50 where id = 2;
+update jogos set nome = &#39;CS&#39; where id = 2;
+select * from jogos order by id;
+
+select * from jogos where preço &gt; 50;
+select * from jogos where preço between 100 and 200;
