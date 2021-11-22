@@ -1,0 +1,38 @@
+create table compras(
+Id serial PRIMARY key,
+Observações varchar(50),
+Datas date,
+Status boolean,
+Preços decimal(6,2)
+);
+insert into compras
+(Observações, Datas, Status, Preços)
+Values
+(&#39;celular&#39;, &#39;01-01-2019&#39;, true, 2400.00),
+(&#39;tablet&#39;, &#39;17-02-2019&#39;, false, 900.00),
+(&#39;geladeira&#39;, &#39;01-07-2019&#39;, true, 4600.00),
+(&#39;televisão&#39;, &#39;01-09-2019&#39;, true, 3000.00),
+(&#39;PS4&#39;, &#39;01-09-2019&#39;, true, 3000.00),
+(&#39;jogo PS4&#39;, &#39;07-11-2019&#39;, true, 240.00),
+(&#39;jogo PS4&#39;, &#39;07-11-2019&#39;, true, 180.00),
+(&#39;celular&#39;, &#39;01-03-2020&#39;, false, 2000.00),
+(&#39;computador&#39;, &#39;10-04-2020&#39;, true, 4000.00),
+(&#39;monitor&#39;, &#39;11-06-2020&#39;, false, 1000.00),
+(&#39;mouseX44&#39;, &#39;01-07-2020&#39;, false, 90.00),
+(&#39;teclado&#39;, &#39;02-07-2020&#39;, true, 100.00),
+(&#39;relogio&#39;, &#39;29-08-2020&#39;, true, 300.00),
+(&#39;tenis nike&#39;, &#39;15-08-2020&#39;, false, 80.00),
+(&#39;camiseta termica&#39;, &#39;09-09-2020&#39;, true, 90.00),
+(&#39;relogio digital&#39;, &#39;01-01-2021&#39;, false, 120.00),
+(&#39;skate&#39;, &#39;19-04-2021&#39;, true, 300.00),
+(&#39;camiseta&#39;, &#39;02-08-2021&#39;, false, 60.00),
+
+(&#39;corrente&#39;, &#39;15-10-2021&#39;, false, 30.00),
+(&#39;PS5&#39;, &#39;08-12-2021&#39;, true, 5000.00);
+select * from compras
+
+select * from compras where datas &gt;= &#39;01-01-2021&#39; and datas &lt;= &#39;31-12-2021&#39;
+select * from compras where datas &gt;= &#39;01-01-2021&#39; and datas &lt;= &#39;31-01-20&#39;
+select * from compras where preços &gt;= &#39;15.00&#39; and preços &lt;= &#39;35.00&#39;
+select * from compras where status &gt;= &#39;true&#39;
+select * from compras where id = 10
