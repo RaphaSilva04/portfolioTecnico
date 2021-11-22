@@ -35,7 +35,7 @@
 
 ## -LINKS-
 >FundamentosTi
->
+
 * [Manipulacao_arq](fundamentosTI/Manipulacao_arq)
 
 * [Caracters_Jokers](fundamentosTI/Caracteres_curingas)
@@ -51,6 +51,8 @@
 * [Shell_script](fundamentosTI/Shell_script)
 
 * [Fatorial](fundamentosTI/Fatorial)
+
+
 
 >FundamentosBD
 
@@ -69,7 +71,8 @@
 * [3FormaNormal](FundamentosBD/3FormaNormal)
 
 
->LOGICA COMPUTACIONAL 
+
+>Logica Computacional 
 
 * [Gentileza_g_Gentileza](LogicaComputacional/Gentileza_g_gentileza)
 
@@ -80,4 +83,9 @@
 * [Estruturas_repetição](LogicaComputacional/Estruturas_repetição)
 
 * [Espelho_esferico](LogicaComputacional/Espelhos_esferico)
+
+
+>Logica de Programação
+
+* [Atvd_lista](LogicaProgramação/Atvd_lista)
 
