@@ -1,0 +1,43 @@
+create table categorias(
+id serial primary key,
+descrição varchar(50),
+num_corredor int
+);
+
+insert into categorias
+(descrição, num_corredor)
+values
+(&#39;salgados&#39;, 4),
+(&#39;padaria&#39;, 10),
+(&#39;doces&#39;, 6),
+(&#39;frios&#39;, 8);
+
+create TABLE produtos(
+id serial primary key,
+descrição varchar(50),
+quantidade int,
+valor decimal(5,2),
+categoria_id int,
+foreign key(categoria_id) REFERENCES categorias
+
+);
+
+insert into produtos
+(descrição, quantidade, valor, categoria_id)
+values
+(&#39;pão&#39;, 40, 7.90, 2),
+(&#39;coxinha&#39;, 4, 3.50, 2),
+(&#39;sonho&#39;, 7, 6.00, 2),
+(&#39;macarrão&#39;, 25, 5.20, 1),
+(&#39;chocolate&#39;, 30, 6.00, 3),
+(&#39;bala&#39;, 70, 1.25, 3),
+(&#39;biscoito&#39;, 15, 5.00, 3),
+(&#39;queijo&#39;, 25, 9.00, 4),
+(&#39;presunto&#39;, 25, 9.00, 4),
+(&#39;refrigerante&#39;, 30, 7.00, 4);
+
+select * from produtos;
+
+select produtos.id as id_prod, produtos.descrição as descrição_prod, quantidade,
+categorias.descrição as descrição_cat, num_corredor
+from produtos inner join categorias on produtos.categoria_id = categorias.id;
