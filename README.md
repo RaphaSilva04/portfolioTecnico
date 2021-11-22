@@ -71,3 +71,5 @@
 
 >LOGICA COMPUTACIONAL 
 
+* [Gentileza_g_Gentileza](LogicaComputacional/Gentileza_g_gentileza)
+
