@@ -70,7 +70,7 @@
 
 * [3FormaNormal](FundamentosBD/3FormaNormal)
 
-
+<br />
 
 >Logica Computacional 
 
@@ -84,6 +84,7 @@
 
 * [Espelho_esferico](LogicaComputacional/Espelhos_esferico)
 
+<br />
 
 >Logica de Programação
 
