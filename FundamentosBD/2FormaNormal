@@ -1,0 +1,26 @@
+create table peças(
+cod_peça int primary key,
+qtd_estoque int,
+qtd_caixas int
+);
+insert into peças
+(cod_peça, qtd_estoque, qtd_caixas)
+values
+(0009, 512, 52),
+(0023, 263, 27),
+(0065, 196, 20);
+
+create table fornecedor(
+cod_fornec int primary key,
+cod_peça int,
+foreign key(cod_peça) references peças,
+local_fornec varchar(20),
+tel_fornec varchar(22)
+);
+insert into fornecedor
+(cod_peça, cod_fornec, local_fornec, tel_fornec)
+values
+(0009, 121, &#39;São Paulo&#39;, &#39;82365-6532&#39;),
+(0023, 122, &#39;Manaus&#39;, &#39;54465-8632&#39;);
+
+select * from peças inner join fornecedor on peças.cod_peça = fornecedor.cod_peça
