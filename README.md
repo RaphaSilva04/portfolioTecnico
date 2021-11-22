@@ -54,6 +54,8 @@
 
 >FundamentosBD
 
+* [SQL](FundamentosBD/SQL)
+
 
 >LOGICA COMPUTACIONAL 
 
