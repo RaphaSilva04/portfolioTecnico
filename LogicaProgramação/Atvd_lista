@@ -1,0 +1,29 @@
+package listas;
+
+import java.util.ArrayList;
+
+public class Listas {
+static String nome = &quot;Raphael&quot;;
+static String idade = &quot;17&quot;;
+static String turma = &quot;2A&quot; ;
+
+static ArrayList&lt;String&gt; registro= new ArrayList&lt;&gt;();
+
+public static void main(String[] args) {
+
+registro.add(nome);
+registro.add(idade);
+registro.add(turma);
+
+registro.remove(idade);
+
+imprimeregistro(registro);
+}
+public static void imprimeregistro(ArrayList&lt;String&gt; lista1 ){
+for(String s:lista1){
+System.out.println(s);
+
+}
+System.out.println(&quot;---------------&quot;);
+}
+}
