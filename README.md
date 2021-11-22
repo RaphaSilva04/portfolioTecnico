@@ -73,3 +73,5 @@
 
 * [Gentileza_g_Gentileza](LogicaComputacional/Gentileza_g_gentileza)
 
+* [Conversao_cod](LogicaComputacional/conversao_cod)
+
