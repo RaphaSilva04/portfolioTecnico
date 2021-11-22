@@ -75,3 +75,5 @@
 
 * [Conversao_cod](LogicaComputacional/conversao_cod)
 
+* [Scanner](LogicaComputacional/Scanner)
+
