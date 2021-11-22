@@ -56,6 +56,8 @@
 
 * [SQL](FundamentosBD/SQL)
 
+* [Fixa_comandos](FundamentosBD/alter_comandos)
+
 
 >LOGICA COMPUTACIONAL 
 
