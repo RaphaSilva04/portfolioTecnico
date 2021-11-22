@@ -62,6 +62,8 @@
 
 * [RelacionamentoPG](FundamentosBD/Relacionamento_PG)
 
+* [1FormaNormal](FundamentosBD/1FormaNormal)
+
 
 >LOGICA COMPUTACIONAL 
 
