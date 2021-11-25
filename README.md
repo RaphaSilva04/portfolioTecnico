@@ -88,7 +88,8 @@
 
 >Logica de Programação
 
-* [PetShop](LogicaProgramação/PetShop)
-
 * [Atvd_lista](LogicaProgramação/Atvd_lista)
 
+* [PetShop](LogicaProgramação/PetShop)
+
+* [CadastroAluno](LogicaProgramação/CadastroAluno/)
