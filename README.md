@@ -50,7 +50,7 @@
 
 >*Autoria*
 
-* [PgAdmin](Autorias/PgAdminRev.sql) --> 
+* [PgAdmin](Autorias/PgAdminRev.sql) --> Explicação e pratica de todo assunto abordado no trimestre 
 
 <br />
 
