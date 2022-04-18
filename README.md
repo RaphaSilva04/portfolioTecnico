@@ -1,5 +1,5 @@
 <h2> portfolio TI </h2>
-<h1> Curriculo2A </h1>
+<h1> Curriculo </h1>
 <h5> Aluno do Sesi Senai </h5>
 <h4>Raphael Lourenço de Campos Silva</h4>
 
