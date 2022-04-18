@@ -48,6 +48,10 @@
 
 <br />
 
+>Autoria 
+
+* [PgAdmin](Autorias/PgAdminRev.sql)
+
 >FundamentosTi
 
 * [Manipulacao_arq](fundamentosTI/Manipulacao_arq)
