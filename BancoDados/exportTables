@@ -18,3 +18,4 @@ postgres=# \copy ( select colecao, cor, tamanho, tecido, cod_cliente from compra
 join roupas on compra.cod_roupa = cod ) to
 &#39;C:\Users\raphael_l_silva\Documents\compra_roupas.csv&#39; delimiter &#39;;&#39; csv header;
 COPY 2
+
