@@ -34,7 +34,7 @@
 * Obter um bom resultado entendimento durante o curso
 
 ## **LINKS**
->*Programacao de Aplicativos* 📱
+>*Programacao de Aplicativos* 
 
 * [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras) ➪ Uma das atividades mais complexas e que desenvolveu bastante a logica mental e de codigos java
 
