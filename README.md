@@ -42,9 +42,9 @@
 
 >BancoDados
 
-* [ExercZoologico](BancoDados/ExercZoologico)
+* [ExercZoologico](BancoDados/ExercZoologico.sql)
 
-* [ExportTables](BancoDados/ExportTables)
+* [ExportTables](BancoDados/ExportTables.sql)
 
 <br />
 
