@@ -36,15 +36,15 @@
 ## -LINKS-
 >ProgramacaoAplicativos
 
-* [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras) --> atividade escolhida por ter sido uma das mais complexas e que desenvolveu bastante a logica de codigos
+* [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras) --> Atividade que foi uma das mais complexas e que desenvolveu bastante a logica de codigos java
 
 <br />
 
 >BancoDados
 
-* [ExercZoologico](BancoDados/ExercZoologico.sql)
+* [ExercZoologico](BancoDados/ExercZoologico.sql) --> Atividade que trabalhou muito bem a utilização dos codigos de banco de dados, além do uso do diagrama de classes
 
-* [ExportTables](BancoDados/ExportTables.sql)
+* [ExportTables](BancoDados/ExportTables.sql) --> Importante para a pratica e aprendizado de exportação de tabelas utilizando o SQL Shell
 
 <br />
 
