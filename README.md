@@ -34,13 +34,13 @@
 * Obter um bom resultado entendimento durante o curso
 
 ## **LINKS**
->*ProgramacaoAplicativos*
+>*Programacao de Aplicativos*
 
 * [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras) --> Uma das atividades mais complexas e que desenvolveu bastante a logica mental e de codigos java
 
 <br />
 
->BancoDados
+>*Banco de Dados*
 
 * [ExercZoologico](BancoDados/ExercZoologico.sql) --> Foi trabalhado bem a utilização dos codigos de banco de dados, além do uso do diagrama de classes
 
@@ -48,13 +48,13 @@
 
 <br />
 
->Autoria 
+>*Autoria*
 
-* [PgAdmin](Autorias/PgAdminRev.sql)
+* [PgAdmin](Autorias/PgAdminRev.sql) --> 
 
 <br />
 
->FundamentosTi
+>*FundamentosTi*
 
 * [Manipulacao_arq](fundamentosTI/Manipulacao_arq)
 
@@ -74,7 +74,7 @@
 
 <br />
 
->FundamentosBD
+>*FundamentosBD*
 
 * [SQL](FundamentosBD/SQL)
 
@@ -92,7 +92,7 @@
 
 <br />
 
->Logica Computacional 
+>*Logica Computacional* 
 
 * [Gentileza_g_Gentileza](LogicaComputacional/Gentileza_g_gentileza)
 
@@ -106,7 +106,7 @@
 
 <br />
 
->Logica de Programação
+>*Logica de Programação*
 
 * [Atvd_lista](LogicaProgramação/Atvd_lista)
 
