@@ -36,7 +36,7 @@
 ## -LINKS-
 >ProgramacaoAplicativos
 
-* [CalculadoraHoras](portfolioTecnico/CalculadoraHoras)
+* [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras)
 
 <br />
 
