@@ -42,15 +42,15 @@
 
 >*Banco de Dados*
 
-* [ExercZoologico](BancoDados/ExercZoologico.sql) --> Foi trabalhado bem a utilização dos codigos de banco de dados, além do uso do diagrama de classes
+* [ExercZoologico](BancoDados/ExercZoologico.sql) ➪ Foi trabalhado bem a utilização dos codigos de banco de dados, além do uso do diagrama de classes
 
-* [ExportTables](BancoDados/ExportTables.sql) --> Importante para a pratica e aprendizado de exportação de tabelas utilizando o SQL Shell
+* [ExportTables](BancoDados/ExportTables.sql) ➪ Importante para a pratica e aprendizado de exportação de tabelas utilizando o SQL Shell
 
 <br />
 
 >*Autoria*
 
-* [PgAdmin](Autorias/PgAdminRev.sql) --> Explicação e pratica de todo assunto abordado no trimestre 
+* [PgAdmin](Autorias/PgAdminRev.sql) ➪ Explicação e pratica de todo assunto abordado no trimestre 
 
 <br />
 
