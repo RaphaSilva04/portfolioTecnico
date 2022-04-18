@@ -36,7 +36,7 @@
 ## -LINKS-
 >ProgramacaoAplicativos
 
-* [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras) --> atividade escolhida por ter sido uma das mais complexas <--
+* [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras) --> atividade escolhida por ter sido uma das mais complexas e que desenvolveu bastante a logica de codigos
 
 <br />
 
