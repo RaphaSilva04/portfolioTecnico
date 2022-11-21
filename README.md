@@ -36,7 +36,7 @@
 ## **LINKS**
 >*Programacao de Aplicativos*
 
-* [MatrizesAtvd](https://github.com/RaphaSilva04/portfolioTecnico/tree/main/Atvd_Matrizes) 
+* [MatrizesAtvd](https://github.com/RaphaSilva04/portfolioTecnico/tree/main/Atvd_Matrizes) ➪ Atividade de matrizes, sendo realizado cálculo da determinante da matriz criada 
 
 * [CalculadoraHoras](https://github.com/SilvaRaphacC/portfolioTecnico/tree/main/CalculadoraHoras) ➪ Uma das atividades mais complexas e que desenvolveu bastante a logica mental e de codigos java
 
