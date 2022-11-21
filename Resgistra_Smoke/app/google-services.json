@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465517169863",
+    "project_id": "naosmoke-c593a",
+    "storage_bucket": "naosmoke-c593a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465517169863:android:9c7ba24243c7a2e05942e2",
+        "android_client_info": {
+          "package_name": "com.example.resgistra_smoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465517169863-o9gtf898k8b9a6gn21uv219a11lg9q6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkstmAn5SqNA-oSdgC9UKdefONuUI6ziQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465517169863-o9gtf898k8b9a6gn21uv219a11lg9q6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
