@@ -52,7 +52,7 @@
 
 >*Autoria*
 
-* [PgAdmin](Autorias/PgAdminRev.sql) ➪ Explicação e pratica de todo assunto abordado no trimestre 
+* [PgAdmin](Autorias/PgAdminRev.sql) ➪ Explicação e pratica de codigos e elementos do Banco de Dados
 
 <br />
 
