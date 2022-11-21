@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645764401801",
+    "firebase_url": "https://projetosa-f2739-default-rtdb.firebaseio.com",
+    "project_id": "projetosa-f2739",
+    "storage_bucket": "projetosa-f2739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645764401801:android:56a4e20e7dd678548e1458",
+        "android_client_info": {
+          "package_name": "com.example.vocacionalsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645764401801-89ot1tvg7l9gvsohrgeoebm9rg5v91j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClkLmSlazoUEPKnQTY70wE667x1jcnLXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645764401801-89ot1tvg7l9gvsohrgeoebm9rg5v91j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
