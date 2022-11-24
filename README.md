@@ -46,17 +46,19 @@
 
 <br />
 
+>*Autorias*
+
+* [MateriasTI](https://github.com/RaphaSilva04/portfolioTecnico/tree/main/AutoriaTI) ➪ Resumo detalhado sobre as materias apresentadas durante o curso, programado em aplicativo
+
+* [PgAdmin](Autorias/PgAdminRev.sql) ➪ Explicação e pratica de codigos e elementos do Banco de Dados
+
+<br />
+
 >*Banco de Dados*
 
 * [ExercZoologico](BancoDados/ExercZoologico.sql) ➪ Foi trabalhado bem a utilização dos codigos de banco de dados, além do uso do diagrama de classes
 
 * [ExportTables](BancoDados/ExportTables.sql) ➪ Importante para a pratica e aprendizado de exportação de tabelas utilizando o SQL Shell
-
-<br />
-
->*Autoria*
-
-* [PgAdmin](Autorias/PgAdminRev.sql) ➪ Explicação e pratica de codigos e elementos do Banco de Dados
 
 <br />
 
