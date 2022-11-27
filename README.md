@@ -48,6 +48,8 @@
 
 >*Autorias*
 
+* [InfosJava](portfolioTecnico/Autorias/InfosJava.sql) ➪ Codigos e métodos selecionados e explicados, colocados em Banco de Dados
+
 * [MateriasTI](https://github.com/RaphaSilva04/portfolioTecnico/tree/main/AutoriaTI) ➪ Resumo detalhado sobre as materias apresentadas durante o curso, programado em aplicativo
 
 * [PgAdmin](Autorias/PgAdminRev.sql) ➪ Explicação e pratica de codigos e elementos do Banco de Dados
