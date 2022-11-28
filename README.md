@@ -34,7 +34,7 @@
 * Obter um bom resultado entendimento durante o curso
 
 ## **LINKS**
->*Programacao de Aplicativos*
+>*Programacao de Aplicativos e Desenvolvimento de Sistemas*
 
 * [MatrizesAtvd](https://github.com/RaphaSilva04/portfolioTecnico/tree/main/Atvd_Matrizes) ➪ Aplicativo de matrizes, sendo realizado cálculo da determinante da matriz criada 
 
