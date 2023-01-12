@@ -10,8 +10,8 @@
 > FORMAÇÃO
 
 * nivel fundamental completo
-* cursando nivel medio 
-* cursando area tecnica da tecnologia da informação
+* nivel medio completo 
+* tecnico em desenvolvimento de sistemas 
 
 
 > CONHECIMENTOS
@@ -25,13 +25,15 @@
 
 * boa comunicação 
 * bom foco e atenção 
+* busca de estrategias 
 * vontade em aprender 
 
 > OBJETIVOS
 
-* adquirir novos conhecimentos e exepriencias 
-* entender mais o ramo de TI
-* Obter um bom resultado entendimento durante o curso
+* aquisição de novos conhecimentos e exepriencias 
+* aprofundamaneto na áreea TI
+* obtenção de bons resultados em diferentes projetos
+* busca por novas experiencias 
 
 ## **LINKS**
 >*Programacao de Aplicativos e Desenvolvimento de Sistemas*
