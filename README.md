@@ -3,7 +3,7 @@
 <h5> Sesi Senai </h5>
 <h4>Raphael Lourenço de Campos Silva</h4>
 
-[exemplo link](fundamentosTI/exemplos.sh)
+
 
 #
 
