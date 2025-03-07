@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+</head>
+<body>
+    <h1>Lista de Tarefas</h1>
+    <a href="{{ route('tasks.create') }}">Criar Tarefa</a>
+    <ul>
+        @foreach ($tasks as $task)
+            <li>
+                <strong>{{ $task->title }}</strong><br>
+                {{ $task->description }}<br>
+                <a href="{{ route('tasks.edit', $task->id) }}">Editar</a> |
+                <form action="{{ route('tasks.destroy', $task->id) }}" method="POST" style="display:inline;">
+                    @csrf
+                    @method('DELETE')
+                    <button type="submit">Excluir</button>
+                </form>
+            </li>
+        @endforeach
+    </ul>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criar Tarefa</title>
+</head>
+<body>
+    <h1>Criar Tarefa</h1>
+    <form action="{{ route('tasks.store') }}" method="POST">
+        @csrf
+        <div>
+            <label for="title">Título</label>
+            <input type="text" name="title" id="title" required>
+        </div>
+        <div>
+            <label for="description">Descrição</label>
+            <textarea name="description" id="description"></textarea>
+        </div>
+        <button type="submit">Salvar</button>
+    </form>
+</body>
+</html>
